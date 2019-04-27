@@ -1,6 +1,6 @@
 # Sentiment Analysis using Keras and Long short-term memory (LSTM).
 
-Input data: Trip Advisor classification
+Input data: Trip Advisor feedbacks
 
 Language: Portuguese
 
